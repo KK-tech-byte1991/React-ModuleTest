@@ -19,7 +19,7 @@ function App() {
           </div>)}
           <div style={{ backgroundColor: "#16008B" }} className=' text-3xl absolute rounded-full bg-red-500 w-12 h-12 text-center pt-0.5  font-bold font-sans text-white bottom-2 right-5'>+</div>
         </div>
-      </div>
+      </div> 
       <div className='basis-3/4' style={{ backgroundColor: "#DAE5F5" }}>
 
         <img src={mainImage} className='m-auto' alt="lockImage" />
