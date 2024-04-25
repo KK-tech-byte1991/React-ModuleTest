@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import  { useState } from 'react'
 import mainImage from "./assets/pocketNotesmain.svg"
 import lockImage from "./assets/lock.svg"
 import rightArrow from "./assets/rightArrow.svg"
