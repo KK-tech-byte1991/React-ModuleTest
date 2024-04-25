@@ -41,17 +41,17 @@
     min-height: 170px;
     background-color: white;
     padding: 20px;
-    font-family: Roboto sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 28.83px;
     letter-spacing: 0.035em;
     text-align: left;
     text-overflow: clip;
- 
+
     word-break: break-all;
 
-    
+
 
 }
 
@@ -73,7 +73,7 @@
 }
 
 .modalHeading {
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 29px;
     font-weight: 500;
     line-height: 46.45px;
@@ -104,9 +104,7 @@
 
 }
 
-.mainContentWeb {
-    display: inline;
-}
+.mainContentWeb {}
 
 @media screen and (min-width: 769px) {
 
